@@ -25,11 +25,11 @@ Overall this portfolio maintains a professional tone with what is included for t
 
 a. Navigability
 
-This portfolio lacks many header buttons that would make it easier to find specific information without having to scroll through the entire portfolio to find it. But the information on past projects is easy to locate along with work experience. The past projects are set in two collums with pictures and some key details of each project respectively. contact information is only at the very bottom and does not have a dedicated page for it. 
+This portfolio lacks many header buttons that would make it easier to find specific information without having to scroll through the entire portfolio to find it. But the information on past projects is easy to locate along with work experience. The past projects are set in two columns with pictures and some key details of each project respectively. contact information is only at the very bottom and does not have a dedicated page for it. 
 
 b. Reproducibility
 
-The main Capstone project covered in this portfolio has an entire report hyperlinked within the portfolio. Every step taken during this project was covered in great detail through this report and reproducing their results would be straightforeward. Details span from CAD models, drawing, labeled schematics, and detailed texts on the multiple subsystems of the project. This main project however is the only one that goes into extensive detail on what went into creating it. The other projects shown are just a couple general pictures alongside an objective and result statement, so reproducing the other smaller projects would not be possible. 
+The main Capstone project covered in this portfolio has an entire report hyperlinked within the portfolio. Every step taken during this project was covered in great detail through this report and reproducing their results would be straightforward. Details span from CAD models, drawing, labeled schematics, and detailed texts on the multiple subsystems of the project. This main project however is the only one that goes into extensive detail on what went into creating it. The other projects shown are just a couple general pictures alongside an objective and result statement, so reproducing the other smaller projects would not be possible. 
 
 c. Evidence of reasoning
 
@@ -41,10 +41,33 @@ There is a professional tone throughout the entire portfolio. Everything state i
 
 
 
+## Task B: Analyze
 
-## Analyze
+**Patent: Klein Tools INC Screwdriver: Patent Number [USD684836S1](https://patents.google.com/patent/USD684836S1/en?q=screwdriver&assignee=Klein+Tools+Inc)**
 
-**Klein Tools INC Screwdriver: Patent Number [USD684836S1](https://patents.google.com/patent/USD684836S1/en?q=screwdriver&assignee=Klein+Tools+Inc)**
+The primary engineering function of this screwdriver is to transmit manually powered torque at its output shaft and into a fastener. It does so with a Phillips head fastener interface to transmit the torque to a wide variety of fasteners using the same Phillips head interface. The governing model of this screwdriver is: 
+
+**$$\tau$$ = r * F**
+
+Given that: 
+
+$$\tau$$ = Torque
+
+r = Radius of handle
+
+F = Force applied
+
+This model is valid for this product because rotational torque is being applied to the screwdriver anytime the user twist the driver to tighten a fastener. 
+
+
+
+
+
+
+
+
+
+
 
 
 
