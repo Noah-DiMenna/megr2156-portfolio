@@ -4,6 +4,7 @@
 
 ## Task A:
 **Portfolio 1: [Alexandre Allonas Portfolio](https://www.alexandre-allonas.fr)**
+
 a. Navigability
 Alexandre Allonas has a portfolio that is well structured overall. It clearly states his name at the top, along with where he is a student. It drops you right into a personal information page so you can get to know the person the portfolio belongs to. Just below his name there are easy to see buttons that take you to other parts of the portfolio, like projects, experience, and a contact page. It is easy to locate the projects that Alexandre has worked on in the past under the projects button, and it loads very fast. Each project has a quick snapshot of what was included with key features and a picture as well. Some project have buttons that take you to additional information where they were needed. 
 
