@@ -59,6 +59,10 @@ F = Force applied
 
 This model is valid for this product because rotational torque is being applied to the screwdriver anytime the user twist the driver to tighten a fastener. 
 
+![Screwdriver Shaft](Screwdriver-Shaft.JPG)
+![Screwdriver Tip](Screwdriver-Tip.JPG)
+![Screwdriver Handle Piece #1](Screwdriver-Yellow.JPG)
+![Screwdriver Handle Piece #2](Screwdriver-Black.JPG)
 
 
 
