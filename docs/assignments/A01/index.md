@@ -47,11 +47,11 @@ There is a professional tone throughout the entire portfolio. Everything state i
 
 The primary engineering function of this screwdriver is to transmit manually powered torque at its output shaft and into a fastener. It does so with a Phillips head fastener interface to transmit the torque to a wide variety of fasteners using the same Phillips head interface. The governing model of this screwdriver is: 
 
-**$$\tau$$ = r * F**
+t = r * F**
 
 Given that: 
 
-$$\tau$$ = Torque
+t = Torque
 
 r = Radius of handle
 
