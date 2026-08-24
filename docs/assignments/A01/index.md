@@ -65,7 +65,7 @@ This model is valid for this product because rotational torque is being applied 
 ![Screwdriver Handle Piece #2](Screwdriver-Black.JPG)
 
 
-
+<img src="Screwdriver-Black.JPG" width="50%">
 
 
 
