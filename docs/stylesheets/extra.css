@@ -1,3 +1,10 @@
 :root {
-  --md-default-bg-color: #8798a8;
+  --md-default-bg-color: #d3e3f2 !important;
+}
+
+body, 
+.md-container, 
+.md-main, 
+.md-content {
+  background-color: #d3e3f2 !important;
 }
