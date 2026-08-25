@@ -9,8 +9,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-
-    extra_css:
+extra_css:
   - stylesheets/extra.css
   
 nav:
