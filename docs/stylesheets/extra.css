@@ -2,9 +2,18 @@
   --md-default-bg-color: #d3e3f2 !important;
 }
 
+/* Main background color override */
 body, 
 .md-container, 
 .md-main, 
 .md-content {
   background-color: #d3e3f2 !important;
+}
+
+/* Remove white box, background, and shadows from sidebar title */
+.md-nav__title,
+.md-sidebar__scrollwrap,
+.md-sidebar {
+  background-color: #d3e3f2 !important;
+  box-shadow: none !important;
 }
