@@ -84,8 +84,10 @@ Screwdriver Handle Piece #2:
 The black portion of the screwdriver is made of a rubber like material so more friction is present between the users hand and the tool. This increases the amount of force the user can put into the screwdriver before it starts to slip in their hand. 
 
 ## Intentional Customizations
-1. Changes website name from *"MEGR 2157 - Design Portfolio"* to *"MEGR 2156 - Design Portfolio"* to match the website name to the proper class number.
-2. 
+1. ChangeD website name from *"MEGR 2157 - Design Portfolio"* to *"MEGR 2156 - Design Portfolio"* to match the website name to the proper class number.
+2. Changed the primary color on mkdocs.yml from *green* to *dark grey*
+3. Added an the accent color *blue* to mkdocs.yml
+4. Changed the image on the main screen from *MEGR2156title.png* to *Mclaren-Slim.jpg*
 
 
 
