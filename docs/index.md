@@ -1,6 +1,6 @@
 # Noah DiMenna - MEGR 2156 Design Portfolio
 
-![Cover Photo](Mclaren-Slim.jpg)
+<img src="Mclaren-Slim.jpg" style="border-radius: 12px;">
 
 ## **To the Viewer of this Portfolio**
 This portfolio is intended for students, professors, professionals, and potential employers. It includes multiple assignments from MEGR 2156 spanning over the Fall 2026 semester at UNC Charlotte. Below is a layout for what to expect on each assignment page, and what is expected to be learned throughout the course. 
