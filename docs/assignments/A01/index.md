@@ -83,8 +83,11 @@ Screwdriver Handle Piece #2:
 
 The black portion of the screwdriver is made of a rubber like material so more friction is present between the users hand and the tool. This increases the amount of force the user can put into the screwdriver before it starts to slip in their hand. 
 
+# Decide
+
 ## Intentional Customizations
-1. ChangeD website name from *"MEGR 2157 - Design Portfolio"* to *"MEGR 2156 - Design Portfolio"* to match the website name to the proper class number.
+
+1. Changed website name from *"MEGR 2157 - Design Portfolio"* to *"MEGR 2156 - Design Portfolio"* to match the website name to the proper class number.
 2. Changed the primary color on mkdocs.yml from *green* to *dark grey*
 3. Added an the accent color *blue* to mkdocs.yml
 4. Changed the image on the main screen from *MEGR2156title.png* to *Mclaren-Slim.jpg*
@@ -92,12 +95,19 @@ The black portion of the screwdriver is made of a rubber like material so more f
 6. Created the file *extra.css* with code to change the background color
 7. added the directory reference *extra.css* to the theme portion of *mkdocs.yml* to reference the desired background color
 
+## Documentation Standard
+
+This semester my standard will be to be as detailed as possible in explaining the steps I took to reach any outcomes from each assignment. This will be done by providing multiple images and all necessary annotations to convey my engineering process to anyone that reads through this portfolio and its assignments.
 
 
 
 
 
-## Decide
+
+
+
+
+
 
 
 ## Communicate
