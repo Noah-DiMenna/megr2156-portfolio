@@ -59,10 +59,31 @@ F = Force applied
 
 This model is valid for this product because rotational torque is being applied to the screwdriver anytime the user twist the driver to tighten a fastener. 
 
+Screwdriver Shaft:
+
 <img src="Screwdriver-Shaft.JPG" width="50%">
+
+The Function of this piece is to provide some distance between the Tip and handle of the screwdriver meaning it can reach fasteners in harder to reach areas. 
+
+Screwdriver Tip:
+
 <img src="Screwdriver-Tip.JPG" width="50%">
+
+The tip is made of a magnetic material so that it can hold fasteners without the need for the user to also hold them in place prior to use. 
+
+Screwdriver Handle Piece #1:
+
 <img src="Screwdriver-Yellow.JPG" width="50%">
+
+The yellow portion of the screwdriver increases the diameter of the handle, which increases the mechanical advantage the user has, making installation of fasteners easier. 
+
+Screwdriver Handle Piece #2:
+
 <img src="Screwdriver-Black.JPG" width="50%">
+
+The black portion of the screwdriver is made of a rubber like material so more friction is present between the users hand and the tool. This increases the amount of force the user can put into the screwdriver before it starts to slip in their hand. 
+
+
 
 
 
