@@ -88,6 +88,9 @@ The black portion of the screwdriver is made of a rubber like material so more f
 2. Changed the primary color on mkdocs.yml from *green* to *dark grey*
 3. Added an the accent color *blue* to mkdocs.yml
 4. Changed the image on the main screen from *MEGR2156title.png* to *Mclaren-Slim.jpg*
+5. Added a *stylesheets* directory within the *docs* directory
+6. Created the file *extra.css* with code to change the background color
+7. added the directory reference *extra.css* to the theme portion of *mkdocs.yml* to reference the desired background color
 
 
 
