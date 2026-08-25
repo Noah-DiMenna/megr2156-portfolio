@@ -99,16 +99,6 @@ The black portion of the screwdriver is made of a rubber like material so more f
 
 This semester my standard will be to be as detailed as possible in explaining the steps I took to reach any outcomes from each assignment. This will be done by providing multiple images and all necessary annotations to convey my engineering process to anyone that reads through this portfolio and its assignments.
 
+## Time Spent
 
-
-
-
-
-
-
-
-
-
-
-## Communicate
-
+I spent roughly 7 hours on Assignment 1
