@@ -26,7 +26,7 @@
 
 For Assignment A2 I was tasked with creating a planar truss that fit within given parameters. 
 
-<img src="Given-Layout.jpg" style="border-radius: 12px; width: 50%;">
+<img src="Given-Layout.jpg" style="border-radius: 12px; width: 75%;">
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
