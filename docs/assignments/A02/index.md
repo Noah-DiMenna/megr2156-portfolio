@@ -39,10 +39,14 @@ For Assignment A2 I was tasked with creating a planar truss that fit within give
 <img src="Given-Layout.jpg" style="border-radius: 12px; width: 75%;">
 
 This was the layout given to design a truss to support:
-- Point A is a pin support
-- Point B is a horizontal roller support
-- Point C  is where the first P force is located
-- Point D is where the second P force is located
+
+- **Point A** is a pin support
+
+- **Point B** is a horizontal roller support
+
+- **Point C**  is where the first P force is located
+
+- **Point D** is where the second P force is located
 
 ## Designing Truss Structure
 
