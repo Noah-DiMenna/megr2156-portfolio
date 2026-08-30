@@ -50,9 +50,11 @@ This was the layout given to design a truss to support:
 
 ## Designing Truss Structure
 
+<img src="A2-Base-Layout.jpg" style="border-radius: 12px; width: 50%;">
+
 I started by making a basic layout to standardize each of my following designs. This would make it easier to compare the designs and make an informed decision on which one would work best for the presented problem. 
 
-<img src="A2-Base-Layout.jpg" style="border-radius: 12px; width: 50%;">
+## Preliminary Designs
 
 I came up with 3 different designs that could work as a viable solution to supporting both forces and points C and D
 
