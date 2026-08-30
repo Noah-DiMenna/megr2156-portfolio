@@ -1,5 +1,12 @@
 # A2 – Truss Stress Analysis
 
+## Note to Reader
+
+Any hand drawn work in this assignment includes standardized highlighting colors:
+- **Yellow** highlight signifies the header of a new portion of work (ie: solving for forces, List of Numerical Forces, etc.)
+- **Blue** highlight signifies the answer to a question that was being solved under a yellow header (ie: By=-6.66 KN under the yellow header of solving for external forces)
+- **Green** highlight signifies commentary, which will also be written as text within this assignment
+
 ## Objective
 
 -Design a lightweight planar truss using A500 steel or an alternative material.
@@ -36,21 +43,33 @@ This was the layout given to design a truss to support:
 
 ## Designing Truss Structure
 
+I started by making a basic layout to standardize each of my following designs. This would make it easier to compare the designs and make an informed decision on which one would work best for the presented problem. 
+
+<img src="A2-Base-Layout.jpg" style="border-radius: 12px; width: 50%;">
+
 I came up with 3 different designs that could work as a viable solution to supporting both forces and points C and D
 
 Design 1:
+
+<img src="A2-Design1.jpg" style="border-radius: 12px; width: 50%;">
 
 This is a simple underbody truss that directly connects point B to point C, connects point A to point D, connects C and D, and makes a new point "E" that all points meet at in the middle. 
 
 Design 2:
 
+<img src="A2-Design2.jpg" style="border-radius: 12px; width: 50%;">
+
 This design Prioritized supporting both loads at points C and D from both anchor points A and B. A support connects both C and D to point B, as well as two supports connecting both loads to point A. One additional member connects the Loads together to make the structure stable.
 
 Design 3:
 
+<img src="A2-Design3.jpg" style="border-radius: 12px; width: 50%;">
+
 This design utilized the fact that both P forces are perfectly vertical, so both forces would be transmitted directly through their member to a strong truss assembly above points A and B. 
 
-Overall Design 1 made the most sense to use because it was the most simple of the 3, and would most likely have the best dispersion of both forces through all of the members, so it was the one I continued the engineering process with going forward. 
+## Picking a Design
+
+Overall Design 1 made the most sense to use because it was the most simple of the 3, and would most likely have the best dispersion of both forces through all of the members, so it was the one I continued the engineering process with going forward. Both design 2 and 3 would pose problems with individual members of the truss taking on too much of the overall load P from both point C and D. Design 1 also will give the best strength to weight ratio since it will be far lighter than design 3 and have overall shorter members than design 2. 
 
 
 
