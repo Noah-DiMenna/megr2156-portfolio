@@ -3,8 +3,11 @@
 ## Note to Reader
 
 Any hand drawn work in this assignment includes standardized highlighting colors:
+
 - **Yellow** highlight signifies the header of a new portion of work (ie: solving for forces, List of Numerical Forces, etc.)
+
 - **Blue** highlight signifies the answer to a question that was being solved under a yellow header (ie: By=-6.66 KN under the yellow header of solving for external forces)
+
 - **Green** highlight signifies commentary, which will also be written as text within this assignment
 
 ## Objective
