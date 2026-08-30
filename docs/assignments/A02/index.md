@@ -80,7 +80,19 @@ This design utilized the fact that both P forces are perfectly vertical, so both
 
 Overall Design 1 made the most sense to use because it was the most simple of the 3, and would most likely have the best dispersion of both forces through all of the members, so it was the one I continued the engineering process with going forward. Both design 2 and 3 would pose problems with individual members of the truss taking on too much of the overall load P from both point C and D. Design 1 also will give the best strength to weight ratio since it will be far lighter than design 3 and have overall shorter members than design 2. 
 
+## Design 1 Freebody Diagram
 
+<img src="A2-Design1-FBD.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-External-Sym.jpg" style="border-radius: 12px; width: 75%;">
+
+<img src="A2-JointB-Sym.jpg" style="border-radius: 12px; width: 30%;">
+
+<img src="A2-JointC-Sym.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-JointA-Sym.jpg" style="border-radius: 12px; width: 30%;">
+
+<img src="A2-JointD-Sym.jpg" style="border-radius: 12px; width: 30%;">
 
 
 
