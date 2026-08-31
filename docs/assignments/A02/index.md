@@ -100,6 +100,8 @@ These are solving for the external (support) forces of my truss solved symbolica
 
 B<sub>y</sub>=- $\frac{1}{3}$ P
 
+$\frac{1}{3}$
+
 Ay=1/3 P
 
 ### Internal Forces:
