@@ -98,7 +98,7 @@ This is the freebody diagram of the design I chose to move on with. It include a
 
 These are solving for the external (support) forces of my truss solved symbolically. 
 
-B<sub>y</sub>=- $\frac{1}{3}$ P
+B<sub>y</sub>=-(1/2)P
 
 $\frac{1}{3}$
 
