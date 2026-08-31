@@ -48,7 +48,11 @@ This was the layout given to design a truss to support:
 
 - **Point D** is where the second P force is located
 
-## Designing Truss Structure
+## 2. Designing Truss Structure
+
+**a. Design the truss structure using parameters in Figure #1**
+
+**i. Sketch a truss structure by generating the lengths of each element based to support the loads at point C and D.**
 
 <img src="A2-Base-Layout.jpg" style="border-radius: 12px; width: 50%;">
 
@@ -80,13 +84,29 @@ This design utilized the fact that both P forces are perfectly vertical, so both
 
 Overall Design 1 made the most sense to use because it was the most simple of the 3, and would most likely have the best dispersion of both forces through all of the members, so it was the one I continued the engineering process with going forward. Both design 2 and 3 would pose problems with individual members of the truss taking on too much of the overall load P from both point C and D. Design 1 also will give the best strength to weight ratio since it will be far lighter than design 3 and have overall shorter members than design 2. 
 
-## Design 1 Freebody Diagram
+## ii. Design 1 Freebody Diagram
 
 <img src="A2-Design1-FBD.jpg" style="border-radius: 12px; width: 50%;">
 
+This is the freebody diagram of the design I chose to move on with. It include a separate diagram for each join A through E, including external forces where necessary. These forces include support forces on joints A and B, and load forces P on joints C and D. 
+
+## iii. Symbolically solve for all internal forces
+
+### External Forces:
+
 <img src="A2-External-Sym.jpg" style="border-radius: 12px; width: 75%;">
 
+These are solving for the external (support) forces of my truss solved symbolically. 
+
+By=-1/3 P
+
+Ay=1/3 P
+
+### Internal Forces:
+
 <img src="A2-JointB-Sym.jpg" style="border-radius: 12px; width: 30%;">
+
+F<sub>BC</sub>
 
 <img src="A2-JointC-Sym.jpg" style="border-radius: 12px; width: 50%;">
 
@@ -94,10 +114,11 @@ Overall Design 1 made the most sense to use because it was the most simple of th
 
 <img src="A2-JointD-Sym.jpg" style="border-radius: 12px; width: 30%;">
 
+<img src="A2-List-Sym.jpg" style="border-radius: 12px; width: 20%;">
 
+<img src="A2-Num-Solving.jpg" style="border-radius: 12px; width: 50%;">
 
-
-
+<img src="A2-List-Num.jpg" style="border-radius: 12px; width: 20%;">
 
 
 
