@@ -128,11 +128,51 @@ Member **F<sub>CD</sub>** does not have any internal force, so it could be remov
 
 <img src="A2-JointA-Sym.jpg" style="border-radius: 12px; width: 30%;">
 
+From joint A we find:
+
+**F<sub>AD</sub>= $\frac{5}{9}$ P**
+
+**F<sub>AE</sub>= - $\frac{4}{9}$ P**
+
 <img src="A2-JointD-Sym.jpg" style="border-radius: 12px; width: 30%;">
+
+From joint D we find:
+
+**F<sub>DE</sub>= 0.8012 P**
+
+### List of Symbolic Forces:
 
 <img src="A2-List-Sym.jpg" style="border-radius: 12px; width: 20%;">
 
+This is a combined list of all forces found symbolically in the last step. 
+
+### Numerically Solving for Forces
+
 <img src="A2-Num-Solving.jpg" style="border-radius: 12px; width: 50%;">
+
+Since all of these forces were solved symbolically beforehand, solving for them numerically is as easy as plugging in what value was decided for the force **P** at the beginning. I chose **20KN** for my force **P**. 
+
+From this step we find the following: 
+
+**B<sub>y</sub>= - 6.666KN**
+
+**A<sub>y</sub>= 6.666KN**
+
+**A<sub>x</sub>= 0KN**
+
+**F<sub>AE</sub>= - 8.888KN**
+
+**F<sub>AD</sub>= 11.111KN**
+
+**F<sub>BE</sub>= 8.888KN**
+
+**F<sub>BC</sub>= - 11.111KN**
+
+**F<sub>CE</sub>= - 16.025KN**
+
+**F<sub>CD</sub>= 0KN**
+
+**F<sub>DE</sub>= 16.025KN**
 
 <img src="A2-List-Num.jpg" style="border-radius: 12px; width: 20%;">
 
