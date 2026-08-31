@@ -98,7 +98,7 @@ This is the freebody diagram of the design I chose to move on with. It include a
 
 These are solving for the external (support) forces of my truss solved symbolically. 
 
-By=-1/3 P
+B<sub>y</sub>=- $\frac{1}{3}$ P
 
 Ay=1/3 P
 
@@ -106,7 +106,9 @@ Ay=1/3 P
 
 <img src="A2-JointB-Sym.jpg" style="border-radius: 12px; width: 30%;">
 
-F<sub>BC</sub>
+From joint B we find:
+
+F<sub>BC</sub>=- $\frac{1}{3}$ P
 
 <img src="A2-JointC-Sym.jpg" style="border-radius: 12px; width: 50%;">
 
