@@ -180,13 +180,59 @@ From this step we find the following:
 
 This is a combined list of all numerically solved forces given that **P = 20KN**, found in the last step. 
 
+## Finding Cross-Sectional Area of Members
+
 <img src="A2-MemberCSA-Var.jpg" style="border-radius: 12px; width: 60%;">
+
+The above image shows a list of known and unknown variables that pertain to finding the minimum cross-sectional area. These variables include:
+
+#### Known Variables:
+
+Largest internal forces:
+
+**F<sub>CE</sub>= - 16.025KN**
+
+**F<sub>DE</sub>= 16.025KN**
+
+Safety Factor = 3.5
+
+Yield strength of A500 structural steel: (**Y<sub>ss</sub>= 269MPa**
+
+#### Unknown Variables:
+
+Minimum Cross-Sectional area (**AY<sub>min</sub>**)
+
+Max Stress
+
+Yield strength (before finding it on google)
 
 <img src="A2-Amin-Sym.jpg" style="border-radius: 12px; width: 50%;">
 
+This is the math that symbolically solves for **A<sub>min</sub>**
+
+From this we find:
+
+**$A_{min} = P \frac{SF}{S_y}$**
+
 <img src="A2-Amin-Num.jpg" style="border-radius: 12px; width: 50%;">
 
+Here takes the equation found in the last step and uses it to solve for $A_{min}$ by plugging in the known values to the right side of the equation. 
+
+This gives us:
+
+**$A_{min} = 208.5037mm^2$**
+
+ or
+
+ $A_{min} = 0.0002085m^2$
+
 <img src="A2-Member-Vol.jpg" style="border-radius: 12px; width: 50%;">
+
+This step takes the cross-sectional area found in the last step and multiplies it by the length of each member to find its volume. This is done in preparation to find the mass of each member in the next step. The density of A500 structural steel is also noted here in preparation for the next step. 
+
+From this step we find that:
+
+
 
 <img src="A2-Member-Mass.jpg" style="border-radius: 12px; width: 50%;">
 
