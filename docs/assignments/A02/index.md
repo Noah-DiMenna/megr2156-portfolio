@@ -174,7 +174,13 @@ From this step we find the following:
 
 **F<sub>DE</sub>= 16.025KN**
 
+### List of Numerical Forces:
+
 <img src="A2-List-Num.jpg" style="border-radius: 12px; width: 20%;">
+
+This is a combined list of all numerically solved forces given that **P = 20KN**, found in the last step. 
+
+
 
 
 
