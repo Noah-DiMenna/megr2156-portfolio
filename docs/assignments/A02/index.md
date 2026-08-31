@@ -180,6 +180,29 @@ From this step we find the following:
 
 This is a combined list of all numerically solved forces given that **P = 20KN**, found in the last step. 
 
+<img src="A2-MemberCSA-Var.jpg" style="border-radius: 12px; width: 60%;">
+
+<img src="A2-Amin-Sym.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-Amin-Num.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-Member-Vol.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-Member-Mass.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-Member-Mass-List.jpg" style="border-radius: 12px; width: 50%;">
+
+<img src="A2-Member-Total-Mass.jpg" style="border-radius: 12px; width: 50%;">
+
+
+
+
+
+
+
+
+
+
 
 
 
