@@ -98,9 +98,9 @@ This is the freebody diagram of the design I chose to move on with. It include a
 
 These are solving for the external (support) forces of my truss, solved symbolically. 
 
-B<sub>y</sub>= - $\frac{1}{3}$ P
+**B<sub>y</sub>= - $\frac{1}{3}$ P**
 
-A<sub>y</sub>= $\frac{1}{3}$ P
+**A<sub>y</sub>= $\frac{1}{3}$ P**
 
 ### Internal Forces:
 
@@ -108,11 +108,21 @@ A<sub>y</sub>= $\frac{1}{3}$ P
 
 From joint B we find:
 
-F<sub>BC</sub>= - $\frac{5}{9}$ P
+**F<sub>BC</sub>= - $\frac{5}{9}$ P**
 
-F<sub>BE</sub>= $\frac{4}{9}$ P
+**F<sub>BE</sub>= $\frac{4}{9}$ P**
 
 <img src="A2-JointC-Sym.jpg" style="border-radius: 12px; width: 50%;">
+
+From joint C we find:
+
+**F<sub>CE</sub>= - 0.8012 P**
+
+**F<sub>CD</sub>= 0 P**
+
+Reminders:
+
+There are multiple cosines used in finding **F<sub>CD</sub>**. These are not the same cosine value as they both come from different angles within the truss. The cosine being multiplied by **F<sub>CE</sub>** is equal to **$\frac{0.2}{\sqrt{0.13}}$**. And the cosine multiplied by **F<sub>BC</sub>** is equal to **0.8**.
 
 <img src="A2-JointA-Sym.jpg" style="border-radius: 12px; width: 30%;">
 
