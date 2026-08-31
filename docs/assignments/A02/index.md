@@ -124,6 +124,8 @@ Reminders:
 
 There are multiple cosines used in finding **F<sub>CD</sub>**. These are not the same cosine value as they both come from different angles within the truss. The cosine being multiplied by **F<sub>CE</sub>** is equal to **$\frac{0.2}{\sqrt{0.13}}$**. And the cosine multiplied by **F<sub>BC</sub>** is equal to **0.8**.
 
+Member **F<sub>CD</sub>** does not have any internal force, so it could be removed in theory. But considering the fact that this only happens because the system is in perfect equilibrium, it would completely fail if any change were to happen to the system and member **F<sub>CD</sub>** not being in the system. Because of this I chose to keep the member moving forward.  
+
 <img src="A2-JointA-Sym.jpg" style="border-radius: 12px; width: 30%;">
 
 <img src="A2-JointD-Sym.jpg" style="border-radius: 12px; width: 30%;">
