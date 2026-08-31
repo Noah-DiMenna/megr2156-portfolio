@@ -232,13 +232,39 @@ This step takes the cross-sectional area found in the last step and multiplies i
 
 From this step we find that:
 
+$V_{BE}=V_{AE}=1.25x10^{-4} (m^3)$
 
+$V_{CD}=8.34x10^{-5} (m^3)$
+
+$V_{BC}=V_{AD}=1.0425x10^{-4} (m^3)$
+
+$V_{CE}=V_{DE}=1.25x10^{-4} (m^3)$
 
 <img src="A2-Member-Mass.jpg" style="border-radius: 12px; width: 50%;">
 
+Using the Information from the previous photo, everything needed to find the mass of each member is now available. 
+
+From this we find that:
+
+$m_{BE}=m_{AE}=0.982035 (Kg)$
+
+$m_{CD}=0.65469 (Kg)$
+
+$m_{BC}=m_{AD}=0.8183625 (Kg)$
+
+$m_{CE}=m_{DE}=0.59012 (Kg)$
+
 <img src="A2-Member-Mass-List.jpg" style="border-radius: 12px; width: 50%;">
 
+This photo expands the mass of each member to more clearly state the weight of each truss member. 
+
 <img src="A2-Member-Total-Mass.jpg" style="border-radius: 12px; width: 50%;">
+
+This calculates the total mass of the truss system by adding up the mass of each member into one combined value.
+
+This gives us:
+
+$m_{total}=5.4357 (Kg)$
 
 
 
