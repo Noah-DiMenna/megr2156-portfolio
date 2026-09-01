@@ -1,5 +1,7 @@
 # A2 – Truss Stress Analysis
 
+<a href="Truss-CAD.stl" download>Download Truss CAD Model (STL)</a>
+
 ## Note to Reader
 
 Any hand drawn work in this assignment includes standardized highlighting colors:
@@ -385,3 +387,4 @@ This statement was made previously under the "Picking a Design" header, but it i
 Overall Design 1 made the most sense to use because it was the most simple of the 3, and would most likely have the best dispersion of both forces through all of the members, so it was the one I continued the engineering process with going forward. Both design 2 and 3 would pose problems with individual members of the truss taking on too much of the overall load P from both point C and D. Design 1 also will give the best strength to weight ratio since it will be far lighter than design 3 and have overall shorter members than design 2.
 ## Communicate
 
+<a href="Truss-CAD.stl" download>Download Truss CAD Model (STL)</a>
