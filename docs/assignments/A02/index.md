@@ -266,6 +266,72 @@ This gives us:
 
 $m_{total}=5.4357 (Kg)$
 
+## Finding Cross-Sectional Area of Connecting Pins
+
+<img src="A2-Pin-CSA-Var.jpg" style="border-radius: 12px; width: 50%;">
+
+This picture covers known quantities needed to find the cross sectional area of the pins that connect each member of the truss to each other.
+
+<img src="A2-Pin-Unit-Conversion.jpg" style="border-radius: 12px; width: 50%;">
+
+This converts the given units to metric so that they can be used with previously obtained units. 
+
+<img src="A2-Pin-FBD.jpg" style="border-radius: 12px; width: 50%;">
+
+This is the freebody diagram for both pins with the largest loads on them, Pin C and Pin D.
+
+<img src="A2-Pin-Amin-Sym.jpg" style="border-radius: 12px; width: 25%;">
+
+This image shows the conversion done in order to symbolically solve for $A_{min}$
+
+<img src="A2-Pin-Amin-Num.jpg" style="border-radius: 12px; width: 25%;">
+
+This uses the equation found in the previous image to find $A_{min}$ by plugging in all of the known values into the equation.
+
+Doing so gives us:
+
+$A_{min}=0.00006825 (m^2)$
+
+<img src="A2-Pin-Length.jpg" style="border-radius: 12px; width: 50%;">
+
+This equation gives the length that each pin has to be. The answer is also the length of all sides of each truss which will be used in the CAD modeling further on. 
+
+This gives us:
+
+$L_{Pin}=0.0144 (m)$
+
+<img src="A2-Pin-Mass.jpg" style="border-radius: 12px; width: 50%;">
+
+This image shows the steps to find the mass of each pin for the truss system. First the volume of the pin is found, then using the volume and density, Pin mass is found. 
+
+The step gives us:
+
+$m_{Pin}=0.00757 (Kg)$
+
+<img src="A2-Pin-Mass-Total.jpg" style="border-radius: 12px; width: 50%;">
+
+This image shows multiplying the pin mass by 5 to compute the total mass of all 5 pins combined. 
+
+Which gives us:
+
+$m_{PinTotal}=0.0378 (Kg)$
+
+<img src="A2-Pin-Diameter.jpg" style="border-radius: 12px; width: 50%;">
+
+Finally the diameter of the pins must be found before moving into Cad to generate our design. 
+
+performing the equations above gives us:
+
+$d=0.00932 (m)$
+
+This step was not necessary before to find the volume and mass of the pins because we already knew the cross sectional area, it is however needed to create a CAD version of the pins in the next step. 
+
+## CAD Model
+
+### Part 1: Members Only 
+
+
+
 
 
 
