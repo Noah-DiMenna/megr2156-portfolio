@@ -10,6 +10,8 @@ Any hand drawn work in this assignment includes standardized highlighting colors
 
 - **Green** highlight signifies commentary, which will also be written as text within this assignment
 
+- This portfolio uses a math equation extension added directly to the Mkdocs.yml file. If the typed equations are not showing up properly, type ctrl+F5 to refresh them. If issues still persist, all types equations are included in the screenshots directly above them. 
+
 ## Objective
 
 -Design a lightweight planar truss using A500 steel or an alternative material.
@@ -372,27 +374,14 @@ $diff_{members}=0.123$
 
 $diff_{pins}=0.342$
 
-Overall this is a very small difference between 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Overall this is a very small difference between the calculated and actual weights of both the members and the pins respectively.
 
 ## Decide
+
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
+This statement was made previously under the "Picking a Design" header, but it is also pasted here for ease of grading: 
+
+Overall Design 1 made the most sense to use because it was the most simple of the 3, and would most likely have the best dispersion of both forces through all of the members, so it was the one I continued the engineering process with going forward. Both design 2 and 3 would pose problems with individual members of the truss taking on too much of the overall load P from both point C and D. Design 1 also will give the best strength to weight ratio since it will be far lighter than design 3 and have overall shorter members than design 2.
 ## Communicate
 
