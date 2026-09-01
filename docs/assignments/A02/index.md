@@ -328,7 +328,51 @@ This step was not necessary before to find the volume and mass of the pins becau
 
 ## CAD Model
 
+### Base Layout:
+
+<img src="A2-CAD-Layout.png" style="border-radius: 12px; width: 50%;">
+
+This is the preliminary sketch I made as the layout of for my truss. All measurements are in meters, and the 3D modeling software I chose to use was OnShape. I created a point where Pin E was to be located, with a vertically constrained construction line in the middle that measures down $0.3m$. Directly to the left is a point that is measured to be $0.6m$ away, this will become Pin B. Another point is place $0.2m$ to the left of the bottom of the construction line, this pin will become Pin C. Finally Points B and C are mirrored about the construction line to create points A and D respectively. 
+
 ### Part 1: Members Only 
+
+<img src="A2-CAD-Member-Photo.png" style="border-radius: 12px; width: 75%;">
+
+This is a photo of my 5 members after creation. All members have the same cross-sectional area of $A_{min}=0.0002085m^2$, and their own respective lengths as shown in the diagram above. 
+
+<img src="A2-CAD-Pin-Picture.png" style="border-radius: 12px; width: 75%;">
+
+This photo shows the 5 pins at their respective spot, each has the same depth (length) as the truss members, and a diameter of $d=0.00932m$. 
+
+### Truss mass
+
+<img src="A2-CAD-Member-Weight.png" style="border-radius: 12px; width: 50%;">
+
+This photo shows the combined weight of the members within the CAD file. Keep in mind that the proper material (A500 Structural Steel) has to be applied to each member before this measurement can be taken, If this step is not done, weight measurements will not be correct. 
+
+From this we find:
+
+$m_{CADmembers}=5.429Kg$
+
+<img src="A2-CAD-Pin-Weight.png" style="border-radius: 12px; width: 50%;">
+
+This photo shows the combined weight of the pins within the CAD file. Just like the members in the last step, the proper material (Hardened Tool Steel) must be applied to all pins before taking this weight measurement. 
+
+From this we find:
+
+$m_{CADpins}=0.038Kg$
+
+### Truss Mass % Difference:
+
+<img src="A2-CAD-Percent-Diff.jpg" style="border-radius: 12px; width: 75%;">
+
+From the calculations above, we see that:
+
+$diff_{members}=0.123$
+
+$diff_{pins}=0.342$
+
+Overall this is a very small difference between 
 
 
 
