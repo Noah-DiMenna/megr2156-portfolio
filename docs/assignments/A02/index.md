@@ -2,6 +2,10 @@
 
 <a href="Truss-CAD.stl" download>Download Truss CAD Model (STL)</a>
 
+[This link](https://cad.onshape.com/documents/6030af702d7b1e838a571488/w/8a1f2f3b60bc852744703437/e/8155d6a9a22e38e5f5e496c6?renderMode=0&uiState=6a96360e7d127599ce07cf61
+) can take you directly to OnShape, where you can see the edit history and process taken to create the truss step by step. 
+
+
 ## Note to Reader
 
 Any hand drawn work in this assignment includes standardized highlighting colors:
