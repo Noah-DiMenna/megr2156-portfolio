@@ -45,11 +45,7 @@ $D=0.5in.$
 
 Using the diameter, we can find the cross sectional area, which gives us:
 
-$A=
-
-
-
-
+$A=(\frac{3.14}{4})*D^2$
 
 #### Material Used
 
@@ -62,6 +58,33 @@ As shown in the photo above we find that:
 $E=10007603.9psi$
 
 This value falls into the range given at the beginning of the assignment. 
+
+#### Bar Length Parametrically
+
+Using the Variables we defined and the ones given to us as criteria, we can make an equation that solves for the bar length parametrically:
+
+$L=\frac{(E)(A)(Def)}{F}$
+
+Plugging in variables finally gives us:
+
+$L=35.35in.$
+
+#### Sketching Cross-Section with defined Variables
+
+After finding all of these variables and Defining them in Solidworks, creation of the beam can begin.
+
+<img src="A3-Sketch.png" style="border-radius: 12px; width: 50%;">
+
+This is the circle that will become the cross section of our beam
+
+<img src="A3-Sketch-Dimensions.png" style="border-radius: 12px; width: 25%;">
+
+This shows the Dimensions for the Circle in the previous photos, and that the diameter has a direct link to our diameter variable. This means that If a change is made to the variable "D" in our list of equations, this sketch dimension will automatically update to reflect the changes made. 
+
+#### Extruding Cross-Section with Length Variable
+
+Once the sketch is made it can be extruded.
+
 
 
 
