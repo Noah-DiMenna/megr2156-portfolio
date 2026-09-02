@@ -93,6 +93,51 @@ This photo shows the dimensions used for the extrude. This directly pull the var
 
 From here the beam is complete and is ready to run an FEA with the given criteria above. I chose to use a force of $F=500lb_{f}$
 
+<img src="A3-FEA-Fixed-Points.png" style="border-radius: 12px; width: 50%;">
+
+First the fixed points are defined on one end of the bar as shown in the photo above
+
+<img src="A3-FEA-Force.png" style="border-radius: 12px; width: 50%;">
+
+Next the chosen force is applied to the opposite end of where is fixed points were made.
+
+<img src="A3-Mesh.png" style="border-radius: 12px; width: 75%;">
+
+After this a mesh is made for the FEA to be applied to, and then the FEA is ran. 
+
+### Results of the FEA
+
+From the FEA we find that:
+
+<img src="A3-FEA-Deformation.png" style="border-radius: 12px; width: 75%;">
+
+Max Deflection on the bar is:
+
+$Def=0.009in.$
+
+<img src="A3-FEA-Stress.png" style="border-radius: 12px; width: 75%;">
+
+Max Stress on the bar is:
+
+$Stress_{max}=2.746ksi$
+
+And the Yield Strength is:
+
+$S_y=3.999ksi$
+
+#### Safety Factor
+
+Given the max stress the bar experiences and the given yield strength of aluminum $(40ksi)$. we can find the safety factor to be:
+
+$SF=\frac{40ksi}{2.746ksi}$
+
+$SF=14.566$
+
+### Design Reflection
+
+
+
+
 
 
 
