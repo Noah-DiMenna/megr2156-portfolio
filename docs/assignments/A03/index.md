@@ -85,6 +85,16 @@ This shows the Dimensions for the Circle in the previous photos, and that the di
 
 Once the sketch is made it can be extruded.
 
+<img src="A3-Extrude-Dimensions.png" style="border-radius: 12px; width: 25%;">
+
+This photo shows the dimensions used for the extrude. This directly pull the variable "L" for our length and uses its value. This means that The value will also update if any of the variables used to calculate it are changed. 
+
+### Conducting the FEA
+
+From here the beam is complete and is ready to run an FEA with the given criteria above. I chose to use a force of $F=500lb_{f}$
+
+
+
 
 
 
