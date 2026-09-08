@@ -1,5 +1,9 @@
 # A3 – Parametric and FEA
 
+### CAD File
+
+
+
 ## Objective
 
 - Use axial deflection modeling to design its dimensions
@@ -135,19 +139,28 @@ $SF=14.566$
 
 ### Design Reflection
 
+#### % Difference
 
+The calculated axial deflection in the instance would be the 0.09in deflection, which was a given criteria to start this assignment with. The axial deflection from the FEA is also 0.09in.
 
+These will have a 0% difference because one was given and the other was parametrically designed to deflect exactly to that maximum without going over it. 
 
+#### Substantial Pin Hole
 
+If there was a substantially sized pin hole (0.25in. diameter) placed on the left side of the bar, the peak stress of the hole can be found to be: 
 
+$Stress_{hole}=16.31ksi$
 
+This would still Pass the safety factor given that $16.31ksi<40ksi$. 
 
+#### Lessons Learned
 
+From this assignment I learned how to design parametrically within a 3D modeling Software, Conduct a simple FEA, and draw conclusions from the results of the FEA to determine the safety factor on the parametrically generated design.
 
+#### Mistakes made
 
-
-
-
+- Creating incorrect Parametric equations
+- not applying the global variables set from the parametric equations to the part dimensions (parts would not update dimensions automatically if changing the parametric equations)
 
 ## Decide
 
