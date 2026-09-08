@@ -165,6 +165,10 @@ From this assignment I learned how to design parametrically within a 3D modeling
 - Creating incorrect Parametric equations
 - not applying the global variables set from the parametric equations to the part dimensions (parts would not update dimensions automatically if changing the parametric equations)
 
+#### Time Spent
+
+I spent 7 hours on this assignment. 
+
 ## Decide
 
 
