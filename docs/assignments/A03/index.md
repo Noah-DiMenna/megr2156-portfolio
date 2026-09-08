@@ -2,6 +2,8 @@
 
 ### CAD File
 
+<a href="A3.SLDPRT" download>Download Solidworks Model (STL)</a>
+<a href="A3.STL" download>Download Truss STL Model (STL)</a>
 
 
 ## Objective
