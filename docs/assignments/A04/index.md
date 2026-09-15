@@ -60,6 +60,59 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 
 <img src="A4-3.jpg" style="border-radius: 12px; width: 50%;">
 
+The previously designed width of $b=6.36mm$ is too small for the motor to even be mounted to the side of the mount. This happened because the only force being used in this calculation was the torque output of the motor. Weight of the motor was not included in the calculation for this motor mount because it was instructed to be left out of steps 1 and 2 of the design process. (Reference the objective section of this assignment)
+
+## 3D CAD Model of Motor Mount
+
+<img src="A4-4b-1.png" style="border-radius: 12px; width: 75%;">
+
+These are the parametric equations used for the cad model
+
+<img src="A4-4b-2.png" style="border-radius: 12px; width: 75%;">
+
+This is the first sketch used to make Feature 1.
+
+<img src="A4-4b-3.png" style="border-radius: 12px; width: 50%;">
+
+This sketch designed the cutout for the motor to be inlayed into the part.
+
+<img src="A4-4b-4.png" style="border-radius: 12px; width: 50%;">
+
+This sketch designed the hole for the motor output shaft to go through the mount. 
+
+<img src="A4-4b-5.png" style="border-radius: 12px; width: 50%;">
+
+This sketch designed the mounting holes for the motor to be mounted to the mount itself.
+
+<img src="A4-4b-6.png" style="border-radius: 12px; width: 50%;">
+
+This is the sketch that was used to make Feature 2.
+
+<img src="A4-4b-7.png" style="border-radius: 12px; width: 50%;">
+
+This is a top isometric view of the finished mount.
+
+<img src="A4-4b-7.png" style="border-radius: 12px; width: 50%;">
+
+This is a bottom isometric view of the mount, so that the rest of the features can be viewed. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
