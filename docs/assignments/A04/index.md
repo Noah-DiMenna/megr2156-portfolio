@@ -96,7 +96,9 @@ This is a top isometric view of the finished mount.
 
 This is a bottom isometric view of the mount, so that the rest of the features can be viewed. 
 
+## Time spent
 
+I spent around 4 hours on this assignment
 
 
 
