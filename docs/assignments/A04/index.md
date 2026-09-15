@@ -32,18 +32,33 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 
 ## Feature 2:
 
+### All Knowns and Unknowns
 
+<img src="A4-2a.jpg" style="border-radius: 12px; width: 50%;">
 
+### Feature 2 FBD
 
+<img src="A4-2b.jpg" style="border-radius: 12px; width: 50%;">
 
+### Symbolically Solving for $b_2$ With respect to Yield Strength
 
+<img src="A4-2c-1.jpg" style="border-radius: 12px; width: 25%">
 
+### Symbolically Solving for $b_2$ With respect to Deflection
 
+<img src="A4-2c-2.jpg" style="border-radius: 12px; width: 50%;">
 
+### Numerically Solving for $b_2$ With respect to Yield Strength
 
+<img src="A4-2d-1.jpg" style="border-radius: 12px; width: 50%;">
 
+### Numerically Solving for $b_2$ With respect to Deflection
 
+<img src="A4-2d-2.jpg" style="border-radius: 12px; width: 50%;">
 
+## Overall Design Isometric View
+
+<img src="A4-3.jpg" style="border-radius: 12px; width: 50%;">
 
 
 
