@@ -1,5 +1,9 @@
 # A4 – [Topic]
 
+## Note to Reader
+
+This Github Repository uses a math equation extension to make equations in website text show up better. If there are issues with this: $b_1$ showing up weird, hit ctrl + F5 to clear the repository cache so the math equations update to the latest code. If this still does not fix the issue, all equations are also included in the picture that are right above each. 
+
 ## Objective
 
 This was the prompt given for this assignment:
