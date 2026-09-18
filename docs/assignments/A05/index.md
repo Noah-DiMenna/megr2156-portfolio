@@ -64,7 +64,7 @@ These are the objectives listed under this assignments Canvas Page:
 
 ### Multiview Sketches:
 
-<img src="A5-Multiview.png" style="border-radius: 12px; width: 50%;">
+<img src="A5-Multiview.png" style="border-radius: 12px; width: 75%;">
 
 
 
