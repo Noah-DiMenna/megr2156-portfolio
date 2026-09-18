@@ -18,27 +18,54 @@ These are the objectives listed under this assignments Canvas Page:
 
 #### Part A: Stress
 
+<img src="A5-PA-1.png" style="border-radius: 12px; width: 50%;">
+
 #### Part B: Stress
+
+<img src="A5-PB-1.png" style="border-radius: 12px; width: 50%;">
 
 #### Part C: Stress
 
+<img src="A5-PC-1.png" style="border-radius: 12px; width: 50%;">
+
 #### Part D: Stress
 
+<img src="A5-PD-1.png" style="border-radius: 12px; width: 50%;">
+
 #### Part E: Stress
+
+<img src="A5-PE-1.png" style="border-radius: 12px; width: 50%;">
 
 ### Stiffness Based Dimension Calculation:
 
 #### Part A: Stiffness
 
+<img src="A5-PA-2.png" style="border-radius: 12px; width: 50%;">
+
 #### Part B: Stiffness
+
+<img src="A5-PB-2.png" style="border-radius: 12px; width: 50%;">
 
 #### Part C: Stiffness
 
+<img src="A5-PC-2.png" style="border-radius: 12px; width: 50%;">
+
 #### Part D: Stiffness
+
+<img src="A5-PD-2.png" style="border-radius: 12px; width: 50%;">
 
 #### Part E: Stiffness
 
+<img src="A5-PE-2.png" style="border-radius: 12px; width: 50%;">
+
+### Final Dimensions
+
+<img src="A5-FCD.png" style="border-radius: 12px; width: 100%;">
+
 ### Multiview Sketches:
+
+<img src="A5-Multiview.png" style="border-radius: 12px; width: 50%;">
+
 
 
 
