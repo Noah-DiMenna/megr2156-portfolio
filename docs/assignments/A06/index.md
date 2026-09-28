@@ -1,6 +1,9 @@
 # A6 – [Topic]
 
 ## Objective
+### Parametric Equations
+
+<img src="A6-PARA-EQ.png" style="border-radius: 12px; width: 100%;">
 
 ### Images of Applying parametric equations to each part:
 
