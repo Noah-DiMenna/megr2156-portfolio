@@ -22,6 +22,12 @@
 #### Part E
 <img src="A6-PARA-E.png" style="border-radius: 12px; width: 50%;">
 
+### Multiview Drawing in CAD
+
+#### Part A
+<img src="A6-DRAWING.png" style="border-radius: 12px; width: 100%;">
+
+
 ## Analyze
 
 
