@@ -27,6 +27,7 @@
 #### Part A
 <img src="A6-DRAWING.png" style="border-radius: 12px; width: 100%;">
 
+<img src="A6-DRAWING-CLOSE.png" style="border-radius: 12px; width: 100%;">
 
 ## Analyze
 
