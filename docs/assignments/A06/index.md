@@ -1,4 +1,8 @@
 # A6 – [Topic]
+## CAD File and Drawing File Downloads:
+<a href="A6.SLDPRT" download>Download Solidworks Model (SLDPRT)</a>
+
+<a href="A6.SLDDRW" download>Download Solidworks Drawing (SLDDRW)</a>
 
 ## Objective
 ### Parametric Equations
