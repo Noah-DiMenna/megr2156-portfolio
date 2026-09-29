@@ -28,6 +28,10 @@
 
 <img src="A6-DRAWING-CLOSE.png" style="border-radius: 12px; width: 100%;">
 
+#### Tolerances for T Mount clearance
+
+<img src="A6-DRAWING-TOL.png" style="border-radius: 12px; width: 75%;">
+
 ## Analyze
 
 ### Reflection
@@ -40,6 +44,9 @@ For Part A I chose to use the stress equations because they output a larger valu
 
 I chose to add a tighter tolerance to 0.500 opening that allows the T mount to slide into the bracket because if this tolerance was set to the normal $+-0.02in$, the lower bound of this tolerance would be too small for the T mount to actually slide into the bracket. The tolerance I defined give the exact minimum amount that the dimension can be given the tolerance of the T mount. This is a critical feature because with a less accurate tolerance the entire bracket would not be useable.(It would not slide onto the mount)
 
+### Time Spent
+
+I spent around 4 hours on this assignment
 
 ## Decide
 
