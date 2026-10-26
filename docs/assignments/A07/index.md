@@ -65,3 +65,96 @@ From this assignment I learned how to interpret the information found using FEA'
 
 I spent around 3 hours on this assignment.
 
+## Appendix
+
+This includes a multitude of results from all FEA's:
+
+Version 1 Safety Factor:
+
+<img src="A7-V1-SF.png" style="border-radius: 12px; width: 50%;">
+
+Version 1 Max Stress:
+
+<img src="A7-V1-SM.png" style="border-radius: 12px; width: 50%;">
+
+Version 2 Max Stress:
+
+<img src="A7-V2-SM.png" style="border-radius: 12px; width: 50%;">
+
+Version 3 Max Deflection:
+
+<img src="A7-V3-DM.png" style="border-radius: 12px; width: 50%;">
+
+Version 3 Max Stress:
+
+<img src="A7-V3-SM.png" style="border-radius: 12px; width: 50%;">
+
+Version 3 Safety Factor:
+
+<img src="A7-V3-SF.png" style="border-radius: 12px; width: 50%;">
+
+Version 4 Max Deflection:
+
+<img src="A7-V4-DM.png" style="border-radius: 12px; width: 50%;">
+
+Version 4 Safety Factor:
+
+<img src="A7-V4-SF.png" style="border-radius: 12px; width: 50%;">
+
+Version 4 Max Stress:
+
+<img src="A7-V4-SM.png" style="border-radius: 12px; width: 50%;">
+
+Version 5, Coarse Mesh Safety Factor:
+
+<img src="A7-V5-C-SF.png" style="border-radius: 12px; width: 50%;">
+
+Version 5, Default/Normal Mesh Safety Factor:
+
+<img src="A7-V5-N-SF.png" style="border-radius: 12px; width: 50%;">
+
+Version 5, Default/Normal Mesh Max Stress:
+
+<img src="A7-V5-N-SM.png" style="border-radius: 12px; width: 50%;">
+
+Version 5, Default/Normal Mesh Max Deflection:
+
+<img src="A7-V5-N-DM.png" style="border-radius: 12px; width: 50%;">
+
+Version 5, Fine Mesh Safety Factor:
+
+<img src="A7-V5-F-SF.png" style="border-radius: 12px; width: 50%;">
+
+Version 5, Fine Mesh Max Stress:
+
+<img src="A7-V5-F-SM.png" style="border-radius: 12px; width: 50%;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
