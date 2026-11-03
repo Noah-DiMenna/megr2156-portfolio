@@ -49,6 +49,10 @@ There is a typo on the power shaft verification below, it should be 1222.31 psi 
 
 <img src="A8-4.jpg" style="border-radius: 12px; width: 50%;">
 
+### 2D Sketch of Gearbox
+
+<img src="A8-5.jpg" style="border-radius: 12px; width: 75%;">
+
 Power Output Shell
 
 <img src="A8-3 (1).png" style="border-radius: 12px; width: 50%;">
