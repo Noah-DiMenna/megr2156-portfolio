@@ -2,7 +2,7 @@
 
 ## Objective
 
-Knowns: 
+### Knowns: 
 
 Gear Ratio 24:9 
 
@@ -18,7 +18,7 @@ S(power shaft)= 4000 psi
 
 S(short shaft)= 8500 psi
 
-Unknowns:
+### Unknowns:
 
 Input Torque
 
@@ -28,12 +28,20 @@ Max torsional sheer stress
 
 allowable sheer stress
 
+### Solving For Input/Output Shafts
+
 There is a typo on the power shaft verification below, it should be 1222.31 psi < 4000 psi
 <img src="A8-1.jpg" style="border-radius: 12px; width: 100%;">
 
+### Power and Short shaft Verifications
+
 <img src="A8-2.jpg" style="border-radius: 12px; width: 100%;">
 
+### Solving for Journal Bearings
+
 <img src="A8-3.jpg" style="border-radius: 12px; width: 100%;">
+
+### Journal Bearing FBD
 
 <img src="A8-4.jpg" style="border-radius: 12px; width: 50%;">
 
@@ -93,12 +101,11 @@ Interior View of overall assembly (alt view)
 
 <img src="A8-3 (14).png" style="border-radius: 12px; width: 50%;">
 
+### Lessons Learned
 
-## Analyze
+I Learned how to determine the best material for parts within a gearbox based on the calculated internal stresses the parts will sustain when the gearbox is in use. I also learned how to use the Solidworks assembly to create a finish product within a CAD software. 
 
+### Time Spent
 
-## Decide
-
-
-## Communicate
+I spend around 5 Hours on this assignment.
 
