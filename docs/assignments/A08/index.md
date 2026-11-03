@@ -35,59 +35,59 @@ There is a typo on the power shaft verification below, it should be 1222.31 psi 
 
 <img src="A8-3.jpg" style="border-radius: 12px; width: 100%;">
 
-1
+Power Output Shell
 
 <img src="A8-3 (1).png" style="border-radius: 12px; width: 50%;">
 
-2
+Power Output Shell Dimensions
 
 <img src="A8-3 (2).png" style="border-radius: 12px; width: 50%;">
 
-3
+Power Output shaft journal Bearing
 
 <img src="A8-3 (3).png" style="border-radius: 12px; width: 50%;">
 
-4
+Power Output Gear
 
 <img src="A8-3 (4).png" style="border-radius: 12px; width: 50%;">
 
-5
+Power Output Shaft
 
 <img src="A8-3 (5).png" style="border-radius: 12px; width: 50%;">
 
-6
+Power Input Gear (Pinion)
 
 <img src="A8-3 (6).png" style="border-radius: 12px; width: 50%;">
 
-7
+Power Input Shell
 
 <img src="A8-3 (7).png" style="border-radius: 12px; width: 50%;">
 
-8
+Power Input Journal Bearing
 
 <img src="A8-3 (8).png" style="border-radius: 12px; width: 50%;">
 
-9
+Power Input Shaft
 
 <img src="A8-3 (9).png" style="border-radius: 12px; width: 50%;">
 
-10
+Screws for mounting both shell pieces together
 
 <img src="A8-3 (10).png" style="border-radius: 12px; width: 50%;">
 
-11
+Nuts that work with bolt above
 
 <img src="A8-3 (11).png" style="border-radius: 12px; width: 50%;">
 
-12
+Overall assembly
 
 <img src="A8-3 (12).png" style="border-radius: 12px; width: 50%;">
 
-13
+Interior View of overall assembly
 
 <img src="A8-3 (13).png" style="border-radius: 12px; width: 50%;">
 
-14
+Interior View of overall assembly (alt view)
 
 <img src="A8-3 (14).png" style="border-radius: 12px; width: 50%;">
 
