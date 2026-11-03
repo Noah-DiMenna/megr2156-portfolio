@@ -59,6 +59,8 @@ Power Output Shell Dimensions
 
 Power Output shaft journal Bearing
 
+<a href="https://www.mcmaster.com/6294k406/">Journal Bearing (McMaster Carr)</a>
+
 <img src="A8-3 (3).png" style="border-radius: 12px; width: 50%;">
 
 Power Output Gear
@@ -79,7 +81,7 @@ Power Input Shell
 
 Power Input Journal Bearing
 
-<a href="https://example.com">Journal Bearing (McMaster Carr)</a>
+<a href="https://www.mcmaster.com/6389K2/">Journal Bearing (McMaster Carr)</a>
 
 <img src="A8-3 (8).png" style="border-radius: 12px; width: 50%;">
 
@@ -94,6 +96,8 @@ Screws for mounting both shell pieces together
 <img src="A8-3 (10).png" style="border-radius: 12px; width: 50%;">
 
 Nuts that work with bolt above
+
+<a href="https://www.mcmaster.com/91841A003/">Nut (McMaster-Carr)</a>
 
 <img src="A8-3 (11).png" style="border-radius: 12px; width: 50%;">
 
