@@ -79,6 +79,8 @@ Power Input Shell
 
 Power Input Journal Bearing
 
+<a href="https://example.com">Journal Bearing (McMaster Carr)</a>
+
 <img src="A8-3 (8).png" style="border-radius: 12px; width: 50%;">
 
 Power Input Shaft
@@ -86,6 +88,8 @@ Power Input Shaft
 <img src="A8-3 (9).png" style="border-radius: 12px; width: 50%;">
 
 Screws for mounting both shell pieces together
+
+<a href="https://example.com](https://www.mcmaster.com/91772A508/)">Screw (McMaster Carr)</a>
 
 <img src="A8-3 (10).png" style="border-radius: 12px; width: 50%;">
 
