@@ -1,5 +1,9 @@
 # A8 – Gears
 
+### Parts Download
+
+<a href="A8.zip" download>Download ZIP of all parts plus assembly (.ZIP)</a>
+
 ## Objective
 
 ### Knowns: 
