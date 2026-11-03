@@ -35,6 +35,8 @@ There is a typo on the power shaft verification below, it should be 1222.31 psi 
 
 <img src="A8-3.jpg" style="border-radius: 12px; width: 100%;">
 
+<img src="A8-4.jpg" style="border-radius: 12px; width: 50%;">
+
 Power Output Shell
 
 <img src="A8-3 (1).png" style="border-radius: 12px; width: 50%;">
