@@ -54,6 +54,12 @@ Known:
 
 <img src="IMG_0403.jpg" style="border-radius: 12px; width: 50%;">
 
+### Frame Design
+
+The cross bars hold tension on the pulley system so the pully does not slip due to loss of friction. 
+
+<img src="A9.png" style="border-radius: 12px; width: 50%;">
+
 ## Lessons Learned 
 
 From this assignment I learned How different components in a belt system relate to each other in terms of strength. such as shaft diameter being used when calculating the max torque that can be ran through the pulley system as a whole. 
