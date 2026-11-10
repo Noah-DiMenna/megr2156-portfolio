@@ -58,6 +58,8 @@ Known:
 
 From this assignment I learned How different components in a belt system relate to each other in terms of strength. such as shaft diameter being used when calculating the max torque that can be ran through the pulley system as a whole. 
 
+I spent around 4 hours on this assignment.
+
 
 
 
