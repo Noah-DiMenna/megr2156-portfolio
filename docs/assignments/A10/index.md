@@ -60,17 +60,32 @@ Next was determining the bearing and bending stress the nut would experience und
 
 <img src="A10-BOM.png" style="border-radius: 12px; width: 50%;">
 
+Lead Screw
+Flange
+Nut
+Frame (2 ft)
+Frame (1 ft)
+Frame Brackets
+
 Keep in mind the crosshead is not included in the bill of materials since it is a self fabricated part. 
 
 ## Parametric Modeling (Exie D)
 
-<img src="A10-1 (1).png" style="border-radius: 12px; width: 50%;">
+Parametric equations will allow for further adjustments if necessary. 
 
 <img src="A10-1 (2).png" style="border-radius: 12px; width: 50%;">
+
+These are the dimensions for our Crosshead. 
 
 <img src="A10-1 (3).png" style="border-radius: 12px; width: 50%;">
 
 <img src="A10-1 (4).png" style="border-radius: 12px; width: 50%;">
+
+Adding in parts from BOM from Mcmaster-Carr. 
+
+<img src="A10-1 (1).png" style="border-radius: 12px; width: 50%;">
+
+Finally adding the outer frame of the assembly.
 
 <img src="A10-2.png" style="border-radius: 12px; width: 50%;">
 
