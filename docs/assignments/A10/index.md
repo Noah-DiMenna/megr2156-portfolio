@@ -60,6 +60,8 @@ IMG HERE
 
 <img src="A8-BOM.png" style="border-radius: 12px; width: 50%;">
 
+Keep in mind the crosshead is not included in the bill of materials since it is a self fabricated part. 
+
 ## Parametric Modeling (Exie D)
 
 <img src="A10-1 (1).png" style="border-radius: 12px; width: 50%;">
