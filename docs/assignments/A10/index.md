@@ -62,7 +62,7 @@ I began creating a relevant FBD and listing my knowns and unknowns. I began pick
 
 <img src="A10-BOM.png" style="border-radius: 12px; width: 50%;">
 
-[Lead Screw](https://www.mcmaster.com/95082A641/)
+[Lead Screw](https://www.mcmaster.com/99030A981/)
 
 [Flange](https://www.mcmaster.com/95082A641/)
 
@@ -101,6 +101,8 @@ Finally adding the outer frame of the assembly.
 ## Lessons Learned
 
 From this assignment I learned how the overall Design process goes and how one parts constraints impact how other parts are designed. Such as the diameter of the lead screw impacting the force that the other connected components could reliably handle before reaching yield. 
+
+Our group spend around 5 hours on this assignment. 
 
 ## Analyze
 
