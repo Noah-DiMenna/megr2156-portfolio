@@ -2,7 +2,7 @@
 
 ## CAD Assembly Link
 
-<a href="HERE" download>Download Truss SolidWorks Assembly (.SLDASM)</a>
+<a href="A10.SLDASM" download>Download Truss SolidWorks Assembly (.SLDASM)</a>
 
 ## Objective
 
@@ -46,12 +46,23 @@ This is a Given List of the overall Scope for the project and key constraints we
 
 <img src="A10 (1).png" style="border-radius: 12px; width: 50%;">
 
+## Multiview Sketch (Exie D)
+
+IMG HERE
+
 ## Bill of Materials: (Noah D)
 
 <img src="A8-BOM.png" style="border-radius: 12px; width: 50%;">
 
+## Parametric Modeling (Exie D)
 
+<img src="A10-1 (1).png" style="border-radius: 12px; width: 50%;">
 
+<img src="A10-1 (2).png" style="border-radius: 12px; width: 50%;">
+
+<img src="A10-1 (3).png" style="border-radius: 12px; width: 50%;">
+
+<img src="A10-1 (4).png" style="border-radius: 12px; width: 50%;">
 
 
 
