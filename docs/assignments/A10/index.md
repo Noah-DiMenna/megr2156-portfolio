@@ -8,6 +8,8 @@ For this assignment we were given the following parameters:
 
 Design and build a mechanically driven tensile tester capable of applying up to 2 kN axial tensile load with a controllable crosshead speed from 1 to 50 mm/min. Each team is responsible for the mechanical components outlined below. The system will provide consistent, well-aligned loading for polymers and light metals, suitable for instructional use and basic materials evaluation.
 
+This is a Given List of the overall Scope for the project and key constraints we had to adhere by throughout our design process:
+
 <img src="A10 (6).png" style="border-radius: 12px; width: 50%;">
 
 ## Lead Screw Design
