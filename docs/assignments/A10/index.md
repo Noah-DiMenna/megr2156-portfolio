@@ -38,6 +38,8 @@ Next was determining the bearing and bending stress the nut would experience und
 
 ## Crosshead Design 
 
+I began creating a relevant FBD and listing my knowns and unknowns. I began picking a strong, readily available material and quickly settled on A36 steel. I researched the Yield strength and Young’s modulus and added them to my list of known values. I Used the chosen flange thickness from my partner to set a baseline width, and used our tabletop footprint to select a length. I chose a 50mm base and a 250mm length for the crosshead. I then modeled the equations relevant to stress and deflection, and solved for my allowable height. I plugged in my chosen and given values and I saw that my limiting factor was deflection. At 19.84mm of required height, this value was very close to 20mm which was the height I chose.
+
 ### Designing Crosshead (Exie D)
 
 <img src="A10 (4).png" style="border-radius: 12px; width: 50%;">
@@ -60,12 +62,17 @@ Next was determining the bearing and bending stress the nut would experience und
 
 <img src="A10-BOM.png" style="border-radius: 12px; width: 50%;">
 
-Lead Screw
-Flange
-Nut
-Frame (2 ft)
-Frame (1 ft)
-Frame Brackets
+[Lead Screw](https://www.mcmaster.com/95082A641/)
+
+[Flange](https://www.mcmaster.com/95082A641/)
+
+[Nut](https://www.mcmaster.com/95072A881/)
+
+[Frame (2 ft)](https://www.mcmaster.com/4658N41-4658N43/)
+
+[Frame (1 ft)](https://www.mcmaster.com/4658N41-4658N42/)
+
+[Frame Brackets](https://www.mcmaster.com/47065T845/)
 
 Keep in mind the crosshead is not included in the bill of materials since it is a self fabricated part. 
 
