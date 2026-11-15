@@ -1,5 +1,9 @@
 # A10 – Lead Screw Translating System
 
+## CAD Assembly Link
+
+<a href="HERE" download>Download Truss SolidWorks Assembly (.SLDASM)</a>
+
 ## Objective
 
 For this assignment we were given the following parameters: 
