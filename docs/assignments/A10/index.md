@@ -2,7 +2,7 @@
 
 ## CAD Assembly Link
 
-<a href="A10.SLDASM" download>Download Truss SolidWorks Assembly (.SLDASM)</a>
+<a href="A10.zip" download>Download Truss SolidWorks Assembly (.ZIP)</a>
 
 ## Objective
 
@@ -52,9 +52,9 @@ Next was determining the bearing and bending stress the nut would experience und
 
 <img src="A10 (1).png" style="border-radius: 12px; width: 50%;">
 
-## Multiview Sketch (Exie D)
+## Multiview Sketch (Noah D)
 
-IMG HERE
+<img src="A10-Multi.jpg" style="border-radius: 12px; width: 50%;">
 
 ## Bill of Materials: (Noah D)
 
@@ -71,6 +71,10 @@ Keep in mind the crosshead is not included in the bill of materials since it is 
 <img src="A10-1 (3).png" style="border-radius: 12px; width: 50%;">
 
 <img src="A10-1 (4).png" style="border-radius: 12px; width: 50%;">
+
+<img src="A10-2.png" style="border-radius: 12px; width: 50%;">
+
+
 
 ## Lessons Learned
 
