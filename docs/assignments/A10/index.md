@@ -64,7 +64,9 @@ IMG HERE
 
 <img src="A10-1 (4).png" style="border-radius: 12px; width: 50%;">
 
+## Lessons Learned
 
+From this assignment I learned how the overall Design process goes and how one parts constraints impact how other parts are designed. Such as the diameter of the lead screw impacting the force that the other connected components could reliably handle before reaching yield. 
 
 ## Analyze
 
